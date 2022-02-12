@@ -1632,3 +1632,4 @@ Received Import Request.
 Start importing Assets/GuidedProject/Shared/UI/Textures/UI_Panel6SquareButton.png using Guid(5f3361cdbd9476e41a5491b5d496d38d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b67924ece37b8e4198eb1ce70ddfcaa0') in 0.015990 seconds 
   Import took 0.019322 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
